@@ -34,4 +34,9 @@ router.post('/meta_wa_callbackurl', async (req, res) => {
         return res.sendStatus(500);
     }
 });
+
+router.get('/testing', (req, res) => {
+    res.send('Hello I am back!');
+});
+
 module.exports = router;
