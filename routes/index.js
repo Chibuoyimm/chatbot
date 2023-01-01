@@ -191,8 +191,8 @@ router.post("/meta_wa_callbackurl", async (req, res) => {
             contact_profile: {
               addresses: [
                 {
-                  city: "Nairobi",
-                  country: "Kenya",
+                  city: "Lagos",
+                  country: "Nigeria",
                 },
               ],
               name: {
@@ -200,7 +200,7 @@ router.post("/meta_wa_callbackurl", async (req, res) => {
                 last_name: "Chiboy",
               },
               org: {
-                company: "Mom-N-Pop Shop",
+                company: "CAS Tech",
               },
               phones: [
                 {
