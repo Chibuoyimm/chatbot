@@ -16,6 +16,7 @@ const CustomerSession = new Map();
 router.get("/meta_wa_callbackurl", (req, res) => {
   try {
     console.log("GET: Someone is pinging me!");
+    //stuff
 
     let mode = req.query["hub.mode"];
     let token = req.query["hub.verify_token"];
