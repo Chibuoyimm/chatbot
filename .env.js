@@ -3,7 +3,7 @@ const production = {
   NODE_ENV: process.env.NODE_ENV || "production",
   PORT: "9000",
   Meta_WA_accessToken:
-    "EAAVfrZCioSZBABAP25YmR4OvKd76MrqfI6v5H4X12Ms7f6W0ZAWNoXFtcvwh1ni165Xm9dBi0giIr0rtbMzINoi2AUTtXYZADf1gXXsRlHW6w2qXqFi96dQtrZAoH9lveZCCJomvE3KP4ihIBsYfnTg0lCq1Hn7JQWuapOvUPr9lKaMDv43mAc2aEuXDA1DNYRU8ZBs42JhdQZDZD",
+    "EAAVfrZCioSZBABAAMtTHyk9Av2aSMvGPd02G8ZBEQMS7bjoyEh2DtjZBLNwJC0kfSASHUliNj17nBdcHsaFu7ONYqCAaXMT7LZBgt0sgXYel5obOoD2ZAoorne19d5ZBNXjWpmSci0JxSXz9mBys2MZBi7qK5GHmjaR5W9nJPVMZB2gIdAj7njdLN7qHjMXbiA28a8rFyaII54wZDZD",
   Meta_WA_SenderPhoneNumberId: "102956889354682",
   Meta_WA_wabaId: "101596156159101",
   Meta_WA_VerifyToken: "Chiboy17",
@@ -14,7 +14,7 @@ const development = {
   NODE_ENV: process.env.NODE_ENV || "development",
   PORT: "9000",
   Meta_WA_accessToken:
-    "EAAVfrZCioSZBABAP25YmR4OvKd76MrqfI6v5H4X12Ms7f6W0ZAWNoXFtcvwh1ni165Xm9dBi0giIr0rtbMzINoi2AUTtXYZADf1gXXsRlHW6w2qXqFi96dQtrZAoH9lveZCCJomvE3KP4ihIBsYfnTg0lCq1Hn7JQWuapOvUPr9lKaMDv43mAc2aEuXDA1DNYRU8ZBs42JhdQZDZD",
+    "EAAVfrZCioSZBABAAMtTHyk9Av2aSMvGPd02G8ZBEQMS7bjoyEh2DtjZBLNwJC0kfSASHUliNj17nBdcHsaFu7ONYqCAaXMT7LZBgt0sgXYel5obOoD2ZAoorne19d5ZBNXjWpmSci0JxSXz9mBys2MZBi7qK5GHmjaR5W9nJPVMZB2gIdAj7njdLN7qHjMXbiA28a8rFyaII54wZDZD",
   Meta_WA_SenderPhoneNumberId: "102956889354682",
   Meta_WA_wabaId: "101596156159101",
   Meta_WA_VerifyToken: "Chiboy17",
